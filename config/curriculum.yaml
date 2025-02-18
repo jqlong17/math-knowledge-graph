@@ -1,0 +1,11 @@
+units:
+  - grade: 7
+    chapters:
+      - title: "有理数"
+        topics: ["正负数", "数轴", "绝对值"]
+      - title: "几何基础"
+        topics: ["线段与角", "相交线"]
+  - grade: 8
+    chapters:
+      - title: "三角形"
+        topics: ["勾股定理", "全等三角形"] 
